@@ -35,6 +35,7 @@ ____
  * Fix keyboard shortcuts when multiple windows are open.
  * Add print functionality.
  * Add font selection menu.
+ * Add more themes to the appearance menu.
 
 ____
 ###Icons
