@@ -24,7 +24,7 @@ find_package(PkgConfig)
 pkg_check_modules(DEPS REQUIRED 
 	gtk+-3.0
 	libsoup-2.4
-	json-glib-1.0
+	json-glib-1.0.1
 	gtksourceview-3.0
 )
 add_definitions(${DEPS_CFLAGS})
