@@ -37,6 +37,7 @@ ____
  * Add font selection menu.
  * Add more themes to the appearance menu.
  * Add settings menu.
+
 ____
 ###Icons
 
