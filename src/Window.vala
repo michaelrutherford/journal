@@ -287,7 +287,7 @@ public class SolusWindow : Gtk.ApplicationWindow {
                         Idle.add(()=>{
                                 Gtk.show_about_dialog(this,
                                 "program-name", "Journal",
-                                "copyright", "Copyright \u00A9 2015 Ryan Sipes",
+                                "copyright", "Copyright \u00A9 2015 Ryan Sipes\nCopyright \u00A9 2015-2016 Michael Rutherford",
                                 "website", "https://solus-project.com",
                                 "website-label", "Solus Project",
                                 "license-type", Gtk.License.GPL_2_0,
