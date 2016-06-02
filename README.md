@@ -14,7 +14,12 @@ ____
 ____
 ###To Build
 
-Change to this folder (Journal's root folder)
+Navigate to this folder (Journal's root folder)
+
+Execute the install script.
+> sudo sh install.sh
+
+You can also run the installation commands individually.
    
 >mkdir build
 > 
